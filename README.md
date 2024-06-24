@@ -1,1 +1,0 @@
-# team_score_calculation_app
